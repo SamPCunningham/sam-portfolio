@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//github.com/PabloCuneloJr/sam-portfolio/static/css/main.ba980d47.chunk.css",
+    "main.js": "//github.com/PabloCuneloJr/sam-portfolio/static/js/main.a63920e0.chunk.js",
+    "main.js.map": "//github.com/PabloCuneloJr/sam-portfolio/static/js/main.a63920e0.chunk.js.map",
+    "runtime-main.js": "//github.com/PabloCuneloJr/sam-portfolio/static/js/runtime-main.99fe52fd.js",
+    "runtime-main.js.map": "//github.com/PabloCuneloJr/sam-portfolio/static/js/runtime-main.99fe52fd.js.map",
+    "static/js/2.4d4d23c0.chunk.js": "//github.com/PabloCuneloJr/sam-portfolio/static/js/2.4d4d23c0.chunk.js",
+    "static/js/2.4d4d23c0.chunk.js.map": "//github.com/PabloCuneloJr/sam-portfolio/static/js/2.4d4d23c0.chunk.js.map",
+    "index.html": "//github.com/PabloCuneloJr/sam-portfolio/index.html",
+    "precache-manifest.b6d82931cb0e7ead1a63996de3884a18.js": "//github.com/PabloCuneloJr/sam-portfolio/precache-manifest.b6d82931cb0e7ead1a63996de3884a18.js",
+    "service-worker.js": "//github.com/PabloCuneloJr/sam-portfolio/service-worker.js",
+    "static/css/main.ba980d47.chunk.css.map": "//github.com/PabloCuneloJr/sam-portfolio/static/css/main.ba980d47.chunk.css.map",
+    "static/media/logo.svg": "//github.com/PabloCuneloJr/sam-portfolio/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99fe52fd.js",
+    "static/js/2.4d4d23c0.chunk.js",
+    "static/css/main.ba980d47.chunk.css",
+    "static/js/main.a63920e0.chunk.js"
+  ]
+}
