@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="">
       <div className="App">
 
       <Route exact path="/" component={Projects} />
