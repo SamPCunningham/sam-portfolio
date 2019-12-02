@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image: url("/background.jpg");
+  background-size: cover;
+  height: 100%;
+  background-repeat: no-repeat;
 }
 
 .App-logo {
@@ -30,5 +34,33 @@
 }
 
 .item {
-  padding-right: 5px;
+  padding-right: 15px;
+  color: white;
+  font-size: 20pt;
+}
+
+h1 {
+  color: white;
+}
+
+.project-title {
+  color: white;
+}
+
+.project-category {
+  color: white;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+h2 {
+  color: white;
+  font-family: Optima, sans-serif;
+}
+
+.project {
+  font-family: Optima,sans-serif;
+  font-size: 13pt;
 }
