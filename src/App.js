@@ -11,14 +11,14 @@ function App() {
     <BrowserRouter basename="">
       <div className="App">
 
-      <Route exact path="/" component={Projects} />
+      <Route exact path="/" component={About} />
       <Route path="/articles" component={Articles} />
-      <Route path="/about" component={About} />
+      <Route path="/projects" component={Projects} />
 
         <div className="navigation">
-            <Link to="/" className="item">Projects</Link>
+            <Link to="/" className="item">About</Link>
+            <Link to="/projects" className="item">Projects</Link>
             <Link to="/articles" className="item">Articles</Link>
-            <Link to="/about" className="item">About</Link>
           </div>
         
       </div>

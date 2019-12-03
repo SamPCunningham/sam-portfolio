@@ -8,25 +8,25 @@ function Projects(props) {
     <div>
       <h1>Projects</h1>
       <Thumbnail
-        link="https://hope-chess.herokuapp.com"
+        link="reactchess"
         image="/chessboard.jpg"
         title="React Chess App"
         category="Web Application using React, Node and Express"
       />
       <Thumbnail
-        link="www.todo-react-live.herokuapp.com"
+        link="react-to-do"
         image="/note.jpg"
         title="React To Do List"
         category="Web Application using React, Node and Express"
       />
       <Thumbnail
-        link="https://grammable-sam-cunningham.herokuapp.com"
+        link="Grammable"
         image="/cam.jpg"
         title="Photo Sharing Application"
         category="Web Application using Ruby on Rails, postgreSQL, JQuery, and AWS S3 buckets."
       />
       <Thumbnail
-        link="https://flixter-sam-cunningham.herokuapp.com"
+        link="Edustream"
         image="/studio.jpg"
         title="Video Instuction Site"
         category="Web Application using Ruby on Rails, postgreSQL, JQuery, and AWS S3 buckets."
