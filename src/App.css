@@ -75,7 +75,7 @@ h2 {
 
 .bio {
   color: #23fabd;
-  
+
   font-size: 14pt;
   font-weight: 500;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
@@ -95,6 +95,11 @@ p {
 }
 
 .aboutlinks {
-  
+
   font-size: 18pt;
+}
+
+.thumblinks {
+  color: white;
+  font-family: Optima, sans-serif;
 }
